@@ -1,0 +1,27 @@
+{
+  "format": "visual-ide-theme",
+  "version": 1,
+  "theme": {
+    "name": "Ocean Blue",
+    "lightColors": {
+      "color.primary": "#0B5FD9",
+      "color.onPrimary": "#FFFFFF",
+      "color.secondary": "#0CA678",
+      "color.background": "#F2F7FD",
+      "color.surface": "#FFFFFF",
+      "color.text": "#1B1D22",
+      "color.textMuted": "#6B7080",
+      "color.outline": "#D5D8E0"
+    },
+    "darkColors": {
+      "color.primary": "#6EA8FF",
+      "color.onPrimary": "#101633",
+      "color.secondary": "#63E6BE",
+      "color.background": "#08111F",
+      "color.surface": "#1C1E24",
+      "color.text": "#E8EAF0",
+      "color.textMuted": "#9A9FAE",
+      "color.outline": "#3A3D48"
+    }
+  }
+}

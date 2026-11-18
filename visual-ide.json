@@ -1,0 +1,60 @@
+{
+  "format": "visual-ide-community",
+  "version": 1,
+  "name": "Visual IDE community starter kit",
+  "templates": [
+    {
+      "id": "coffee-shop",
+      "name": "Coffee Shop",
+      "description": "Three screens with navigation, a validated sign-in form and a saved order counter.",
+      "author": "ARK PLATFORMS",
+      "version": "1.0.0",
+      "url": "templates/coffee-shop.vidtemplate",
+      "sha256": "4a1a3faffe99ab126fb725ccf5a26d1b1357c282f65129f83eb66d5dcc6a68bd",
+      "size": 6096
+    },
+    {
+      "id": "component-gallery",
+      "name": "Component Gallery",
+      "description": "Two screens showing every ready-to-use component.",
+      "author": "ARK PLATFORMS",
+      "version": "1.0.0",
+      "url": "templates/component-gallery.vidtemplate",
+      "sha256": "9d885167065e59437c68d1a493f769170b31a3ec8cc8fe1b30a19d852ea72451",
+      "size": 7429
+    }
+  ],
+  "themes": [
+    {
+      "id": "forest",
+      "name": "Forest",
+      "description": "Colour theme for apps.",
+      "author": "",
+      "version": "1.0.0",
+      "url": "themes/forest.vidtheme",
+      "sha256": "6bf74da35d4f952e29c2603c7916ae2d4115cbd25b1f205ba4ab9294993c0326",
+      "size": 698
+    },
+    {
+      "id": "ocean-blue",
+      "name": "Ocean Blue",
+      "description": "Colour theme for apps.",
+      "author": "",
+      "version": "1.0.0",
+      "url": "themes/ocean-blue.vidtheme",
+      "sha256": "ffbf78877007ec00023f8ca5f7fd09409ad3d05651f5c863be3550d45df8e151",
+      "size": 702
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "description": "Colour theme for apps.",
+      "author": "",
+      "version": "1.0.0",
+      "url": "themes/sunset.vidtheme",
+      "sha256": "280ac5219c4c1594ac807536fe1e1b300fac368e4f35e010817c1908c9229a78",
+      "size": 698
+    }
+  ],
+  "plugins": []
+}

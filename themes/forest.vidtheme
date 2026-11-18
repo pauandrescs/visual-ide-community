@@ -1,0 +1,27 @@
+{
+  "format": "visual-ide-theme",
+  "version": 1,
+  "theme": {
+    "name": "Forest",
+    "lightColors": {
+      "color.primary": "#1F7A4D",
+      "color.onPrimary": "#FFFFFF",
+      "color.secondary": "#0CA678",
+      "color.background": "#F3FAF6",
+      "color.surface": "#FFFFFF",
+      "color.text": "#1B1D22",
+      "color.textMuted": "#6B7080",
+      "color.outline": "#D5D8E0"
+    },
+    "darkColors": {
+      "color.primary": "#5FD39A",
+      "color.onPrimary": "#101633",
+      "color.secondary": "#63E6BE",
+      "color.background": "#0A1510",
+      "color.surface": "#1C1E24",
+      "color.text": "#E8EAF0",
+      "color.textMuted": "#9A9FAE",
+      "color.outline": "#3A3D48"
+    }
+  }
+}
